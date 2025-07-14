@@ -1,28 +1,52 @@
 [
   {
-    "name": { "common": "Dilipland", "official": "Republic of Dilip" },
-    "capital": ["Kumar City"],
+    "name": { "common": "India" },
     "flags": {
-      "svg": "https://upload.wikimedia.org/wikipedia/commons/3/35/Flag_of_Nepal.svg"
+      "svg": "https://flagcdn.com/in.svg"
     },
-    "region": "Asia",
-    "population": 123456,
-    "languages": { "dil": "Dilipese" },
+    "population": 1400000000,
     "currencies": {
-      "DLC": { "name": "Dilip Coin", "symbol": "₫" }
+      "INR": { "name": "Indian Rupee", "symbol": "₹" }
     }
   },
   {
-    "name": { "common": "CodeNation", "official": "The Developer's Republic" },
-    "capital": ["Scriptville"],
+    "name": { "common": "United States" },
     "flags": {
-      "svg": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg"
+      "svg": "https://flagcdn.com/us.svg"
     },
-    "region": "Europe",
-    "population": 789000,
-    "languages": { "js": "JavaScriptian" },
+    "population": 331000000,
     "currencies": {
-      "COD": { "name": "Code Dollar", "symbol": "$" }
+      "USD": { "name": "United States Dollar", "symbol": "$" }
+    }
+  },
+  {
+    "name": { "common": "Japan" },
+    "flags": {
+      "svg": "https://flagcdn.com/jp.svg"
+    },
+    "population": 125800000,
+    "currencies": {
+      "JPY": { "name": "Japanese Yen", "symbol": "¥" }
+    }
+  },
+  {
+    "name": { "common": "Germany" },
+    "flags": {
+      "svg": "https://flagcdn.com/de.svg"
+    },
+    "population": 83200000,
+    "currencies": {
+      "EUR": { "name": "Euro", "symbol": "€" }
+    }
+  },
+  {
+    "name": { "common": "Brazil" },
+    "flags": {
+      "svg": "https://flagcdn.com/br.svg"
+    },
+    "population": 213000000,
+    "currencies": {
+      "BRL": { "name": "Brazilian Real", "symbol": "R$" }
     }
   }
 ]
