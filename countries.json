@@ -1,0 +1,28 @@
+[
+  {
+    "name": { "common": "Dilipland", "official": "Republic of Dilip" },
+    "capital": ["Kumar City"],
+    "flags": {
+      "svg": "https://upload.wikimedia.org/wikipedia/commons/3/35/Flag_of_Nepal.svg"
+    },
+    "region": "Asia",
+    "population": 123456,
+    "languages": { "dil": "Dilipese" },
+    "currencies": {
+      "DLC": { "name": "Dilip Coin", "symbol": "₫" }
+    }
+  },
+  {
+    "name": { "common": "CodeNation", "official": "The Developer's Republic" },
+    "capital": ["Scriptville"],
+    "flags": {
+      "svg": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg"
+    },
+    "region": "Europe",
+    "population": 789000,
+    "languages": { "js": "JavaScriptian" },
+    "currencies": {
+      "COD": { "name": "Code Dollar", "symbol": "$" }
+    }
+  }
+]
